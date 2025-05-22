@@ -1,3 +1,1 @@
-# portfolio
-
-site :
+A passionate software engineering student specializing in AI, showcasing projects in web and app development, data analysis, and machine learning. Skilled in Python, Kotlin, AWS, and Power BI. Committed to building innovative solutions with clean code and collaboration to solve real-world problems.
